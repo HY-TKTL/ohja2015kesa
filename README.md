@@ -1,36 +1,17 @@
-# Ohjelmoinnin perusteet, kesä 2015
+# Ohjelmoinnin jatkokurssi, kesä 2015
 
 Ohjelmointitaito kehittyy vain ohjelmoimalla. Pääpaino kurssin toiminnassa on viikottaisissa harjoitustehtäväsarjoissa, joita tehdään harjoitusryhmissä. 
 Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saavat käydä kaikissa ryhmissä.
 
 ## Ajankohtaista
-- Alustavat tulokset julkaistu (9.7.)
-  - [Alustavat tulokset](https://raw.githubusercontent.com/HY-TKTL/ohpe2015kesa/master/tulokset-20150709.pdf)
-  - [Paperikokeen mallivastaukset ja arvosteluperusteet](koe240615.md)
-  - **HUOM!** Konekokeet on tarkistettu automaattisilla testeillä. Kaikki testit läpäisseet vastaukset saivat tehtävistä täydet pisteet automaattisesti. Koska arvosteluasteikko on hyväksytty / hylätty, suoritettiin tarkastus käsin vain tarvittaessa. Eli tilanteissa, joissa konekokeesta pisteitä alle 7.5 (koeleikkuri) tai jos kokonaispistemäärä jäi alle 75 pisteen. Tämän johdosta kohdallasi voi näkyä esimerkiksi 0 pistettä jostakin tehtävästä, vaikka se olisikin mennyt hyvin.
-  - Jos molemmat kokeesi menivät läpi, mutta läpipääsy jäi kiinni tehtävipisteistä, voit saada lisätehtäviä korvataksesi puuttuvia pisteitä. Lisätehtävät tulee erikseen pyytää ottamalla yhteyttä sähköpostitse. Ne jotka ovat jo pyytäneet lisätehtäviä saavat ne tämän viikon aikana sähköpostitse.
-- Paperikokeessa oli tarjolla yhteensä 21 pistettä + ylimääräinen piste ensimmäisen sivun kyselystä
-  - Paperikokeen pisteet skaaltaan viiteentoista kurssipisteeseen ( /1.4 )
-  - Koeleikkurina on puolet kokeen kokonaispistemäärästä, eli 10.5 pistettä. (Tämä skaalautuu 7.5 kurssipisteeseen)
-- Konekokeesta lähetettiin sähköpostia kaikille kurssin osallistujille 22.6.2015
-  - Sähköpostiosoitteina olivat WebOodiin kirjatut osoitteet
-  - Jos et saanut viestiä niin ota välittömästi yhteyttä sähköpostitse <josalmi@cs.helsinki.fi>
-- Tarkemmat tiedot konekokeen suorittamisesta maanantain 22.6.2015 aikana.
-  - Konekoetta on mahdollista tehdä 29.6.2015 23:59 asti
-  - Konekoe voidaan tarvittaessa uusia
-  - Koeaika on 3 tuntia
-- Lisätty tietoa [pariohjelmoinnista](#pariohjelmointi) 
-- Pistelista julkaistu <http://www.cs.helsinki.fi/group/java/kesa15-tulokset-ohpe/>
-- Viikon 1 dl siirretty maanantaille 18.5.2015 kello 23:59
 - Ohjevideo <https://youtu.be/sQYq2LISMRU>
-- 15.5. laitos sulkee ovensa klo 16, ohjauksessa voi kuitenkin olla kello 18 asti kunhan ehtii sisään ennen sulkemisaikaa
 
 ## Tärkeitä linkkejä
 
-- [Materiaali](http://www.cs.helsinki.fi/group/java/kesa15/viikko1/)
-- [Pistelista](http://www.cs.helsinki.fi/group/java/kesa15-tulokset-ohpe/)
-- [Mallivastaukset](https://tmc.mooc.fi/hy/courses/46)
-- [Avoin yliopisto](https://weboodi.helsinki.fi/hy/opettaptied.jsp?html=1&Kieli=1&OpetTap=106865461) (myös tentti-ilmo)
+- [Materiaali](http://www.cs.helsinki.fi/group/java/kesa15/viikko8/)
+- [Pistelista](http://www.cs.helsinki.fi/group/java/kesa15-tulokset-ohja/) **Tulossa**
+- [Mallivastaukset]() **Tulossa**
+- [Avoin yliopisto](https://weboodi.helsinki.fi/hy/opettaptied.jsp?html=1&Kieli=1&OpetTap=106866643) (myös tentti-ilmo)
 
 ## Sisällysluettelo
 
@@ -50,22 +31,28 @@ Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saa
 ## Aikataulu
 
 Kurssilla on vain yksi luento:
-- Aloitusluento: maanantaina 11.5. klo 16.15-18 
+- Aloitusluento: maanantaina 27.7. klo 16.15-18 
 - Opetuspaikka: A111, Kumpulan kampus, Exactum, Gustaf Hällströminkatu 2 B
 
-Kurssin aikataulu on erittäin tiukka kesäopintojen tiivistää luonteesta johtuen. Kevään ja syksyn kurssitoteutukset kestävät seitsemän viikkoa, nyt kesällä käytettävissä on kuitenkin vain 5.5 viikkoa samalla työmäärälle. **Varaudu suurehkoon työmäärään viikottain.** Tehtävien tekemiseen ei ole mahdollista saada lisäaikaa ilman erittäin painavaa syytä. 
+*Ohjelmoinnin perusteet -kurssin suorittaneille aloitusluennosta ei liene mitään hyötyä. Ohjelmoinnin jatkokurssilla kaikki toimii täsmälleen samaan tapaan.*
+
+Kurssin aikataulu on erittäin tiukka kesäopintojen tiivistää luonteesta johtuen. Kevään ja syksyn kurssitoteutukset kestävät seitsemän viikkoa, nyt kesällä käytettävissä on kuitenkin vain 6 viikkoa samalle työmäärälle. **Varaudu suurehkoon työmäärään viikottain.** Tehtävien tekemiseen ei ole mahdollista saada lisäaikaa ilman erittäin painavaa syytä. 
 
 **HUOM!** Vaikka tehtäväsarjojen yhteydessä puhutaankin viikoista, on kunkin tehtäväsarjan tekemiseen varattu vain neljä (4) arkipäivää. Alla kurssin **alustava** aikataulusuunnitelma.
 
+**HUOM2!** Ohjelmoinnin jatkokurssi jatkuu siitä mihin Ohjelmoinnin perusteet kurssissa jäätiin. Tämän johdosta ensimmäinen Ohjelmoinnin jatkokurssin tehtäväsarja on Viikko 8.
+
+**Alustava**
+
 Tehtäväsarja | Julkaisupäivä     | Deadline
 :----------- |:----------------- |:--------
-Viikko 1     | Maanantai 11.5.   | Maanantai 18.5. klo 23:59 (siirretty Sunnuntai 17.5. klo 23:59)
-Viikko 2     | Perjantai 15.5.   | Torstai 21.5. klo 23:59
-Viikko 3     | Torstai 21.5.     | Keskiviikko 27.5. klo 23:59
-Viikko 4     | Keskiviikko 27.5. | Tiistai 2.6. klo 23:59
-Viikko 5     | Tiistai 2.6.      | Maanantai 8.6. klo 23:59
-Viikko 6     | Perjantai 5.6.    | Sunnuntai 14.6. klo 23:59
-Viikko 7     | Perjantai 12.6.   | Tiistai 23.6. klo 23:59 (HUOM! Ohjausta 18.6. asti)
+Viikko 8     | 27.7. | 2.8. kello 23:59
+Viikko 9     | 2.8. | 9.8. kello 23:59 
+Viikko 10    | 9.8.  | 13.8. kello 23:59
+Viikko 11    | 13.8. | 19.8. kello 23:59 
+Viikko 12    | 19.8. | 25.8. kello 23:59 
+Viikko 13    | 25.8. | 31.8. kello 23:59 
+Viikko 14    | 31.8. | 8.9. kello 23:59 (**HUOM!** Ohjausta 4.9. asti) 
 
 ## Tehtävät ja harjoitukset
 
@@ -109,7 +96,7 @@ Jos viikon maksimi olisi sata (100) tehtäväpistettä näyttäisi pisteytys seu
 | 95-100          | 10
 
 ### Ohjaus
-Ohjausta järjestetään Exactumin luokassa B221 11.5. - 18.6. seuraavina aikoina:
+Ohjausta järjestetään Exactumin luokassa B221 27.7. - 4.9. seuraavina aikoina:
 
 Päivä | Kellonaika | Huomiot
 ----- | ---------- | -------
@@ -125,9 +112,9 @@ Luokassa saa toki työskennellä myös muulloin :)
 
 ### Paperikoe
 
-**Muista ilmoittautua valitsemaasi tenttiin viimeistään 10 vuorokautta ennen tenttipäivää** Avoimen yliopiston Omat sivut-palvelussa. Lisätietoa kokeista löydät avoimen yliopiston sivuilta: <https://weboodi.helsinki.fi/hy/opettaptied.jsp?html=1&Kieli=1&OpetTap=106865461>.
+**Muista ilmoittautua valitsemaasi tenttiin viimeistään 10 vuorokautta ennen tenttipäivää** Avoimen yliopiston Omat sivut-palvelussa. Lisätietoa kokeista löydät avoimen yliopiston sivuilta: <https://weboodi.helsinki.fi/hy/opettaptied.jsp?html=1&Kieli=1&OpetTap=106866643>.
 
-Vanhoja kokeita nähtävillä osoitteessa <https://github.com/HY-TKTL/ohpe2015kesa/tree/master/vanhat-kokeet>.
+Vanhoja kokeita nähtävillä osoitteessa **TULOSSA**.
 
 ### Konekoe
 
@@ -143,9 +130,9 @@ Ohjeet kurssin työkalujen (NetBeans ja TMC) käyttöön ja TMC-tunnuksen luomis
 
 Jos teet tehtäviä sekä kotoa että TKTL:ltä, seuraa molempia ohjeita, mutta tee vain yksi TMC-tunnus :).
 
-Kurssimateriaali ja tehtävät löytyvät osoitteesta <http://www.cs.helsinki.fi/group/java/kesa15/viikko1/> -- kun materiaali kysyy TMC-tunnusta, kirjoita opiskelijanumerosi. Materiaalia julkaistaan lisää viikoittain.
+Kurssimateriaali ja tehtävät löytyvät osoitteesta <http://www.cs.helsinki.fi/group/java/kesa15/viikko8/> -- kun materiaali kysyy TMC-tunnusta, kirjoita opiskelijanumerosi. Materiaalia julkaistaan lisää viikoittain.
 
-<!-- Ohjelmoinnin jatkokurssin materiaali alkaa viikosta 8. -->
+Ohjelmoinnin jatkokurssin materiaali alkaa viikosta 8.
 
 ## Kurssien arvosteluperusteet ja tuloslista
 
@@ -166,6 +153,8 @@ Matti Mallikas saa kurssin jokaiselta viikkolta yhdeksä kurssipistettä kymmene
 ### En pääse aloitusluennolle, voinko silti osallistua kurssille?
 
 Aloitusluento ei tämän kurssin osalta ole pakollinen. Voit hyvin osallistua kurssille osallistumatta aloitusluennolle. Aloitusluennolla käydään läpi kurssin aikataulu, pisteytys, kokeet sekä tutustutaan kurssilla käytettäviin ohjelmointiympäristöihin.
+
+Ohjelmoinnin perusteet -kurssin suorittaneille aloitusluennosta ei liene mitään hyötyä. Ohjelmoinnin jatkokurssilla kaikki toimii täsmälleen samaan tapaan.
 
 ### Mistä saan apua tehtävien tekemiseen ja missä tehtäviä voi tehdä?
 
