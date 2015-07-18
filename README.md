@@ -114,6 +114,8 @@ Luokassa saa toki työskennellä myös muulloin :)
 
 **Muista ilmoittautua valitsemaasi tenttiin viimeistään 10 vuorokautta ennen tenttipäivää** Avoimen yliopiston Omat sivut-palvelussa. Lisätietoa kokeista löydät avoimen yliopiston sivuilta: <https://weboodi.helsinki.fi/hy/opettaptied.jsp?html=1&Kieli=1&OpetTap=106866643>.
 
+Kokeeseen ei pääsääntöisesti ole mahdollista ilmoittautua myöhässä, pidä siis huoli että ilmoittaudut tenttiin ajoissa. Voit esimerkiksi ilmoittautua jokaiseen kurssin tenttiin heti kurssin alussa ja tarvittaessa peruuttaa ilmoittautumisen myöhemmin jos et tenttiin pääsekkään.
+
 Vanhoja kokeita nähtävillä osoitteessa **TULOSSA**.
 
 ### Konekoe
