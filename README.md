@@ -74,7 +74,7 @@ Pariohjelmoinnin aloitus ja lopetus:
 4. Valitkaa kahdesta tehtävästä toinen ja toteuttakaa se annettujen ohjeiden mukaisesti
 5. Lopuksi pyytäkää ohjaaja tarkistamaan tehtävä sekä kirjaamaan pisteet
 
-Ensimmäiset pariohjelmointitehtävät eivät ole kovin laajoja, mutta jatkossa pariohjelmointitehtävien tekemiseen kannattaa varata aikaa vähintään tunti. Tehtävästä saa pisteet 1.5h yrittämisellä vaikka ohjelmaa ei saisikaan valmiiksi.
+Pariohjelmointitehtävien tekemiseen kannattaa varata aikaa vähintään tunti. Tehtävästä saa pisteet 1.5h yrittämisellä vaikka ohjelmaa ei saisikaan valmiiksi.
 
 ### Tehtävien pisteytys
 
