@@ -35,7 +35,7 @@ Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saa
 
 Kurssilla on vain yksi luento:
 - Aloitusluento: maanantaina 27.7. klo 16.15-18 
-- Opetuspaikka: A111, Kumpulan kampus, Exactum, Gustaf Hällströminkatu 2 B
+- Opetuspaikka: CK112, Kumpulan kampus, Exactum, Gustaf Hällströminkatu 2 B
 
 *Ohjelmoinnin perusteet -kurssin suorittaneille aloitusluennosta ei liene mitään hyötyä. Ohjelmoinnin jatkokurssilla kaikki toimii täsmälleen samaan tapaan.*
 
