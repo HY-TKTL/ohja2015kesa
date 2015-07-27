@@ -4,6 +4,7 @@ Ohjelmointitaito kehittyy vain ohjelmoimalla. Pääpaino kurssin toiminnassa on 
 Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saavat käydä kaikissa ryhmissä.
 
 ## Ajankohtaista
+- **HUOM!** Muista valita NetBeansissa TMC:n asetuksista (TMC -> Settings) kurssiksi *kesa2015-ohja*.
 - Pariohjelmointitehtävät alkavat jo ensimmäisellä viikolla
 - Alkukesän Ohjelmoinnin perusteet -kurssin suorittaneille aloitusluennosta ei liene mitään hyötyä. Ohjelmoinnin jatkokurssilla kaikki toimii täsmälleen samaan tapaan.
 - Ohjevideo <https://youtu.be/sQYq2LISMRU>
