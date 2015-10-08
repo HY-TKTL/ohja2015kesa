@@ -4,6 +4,9 @@ Ohjelmointitaito kehittyy vain ohjelmoimalla. Pääpaino kurssin toiminnassa on 
 Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saavat käydä kaikissa ryhmissä.
 
 ## Ajankohtaista
+- Ensimmäisen kokeen arviointi [PDF](http://www.cs.helsinki.fi/u/josalmi/2015-09-ohja.pdf)
+ - Jos sait ensimmäisestä kokeesta alle 7.5 pistettä sinun tulee uusia koe osallistumalla johonkin jäljellä olevista tenteistä
+ - Jos molemmat kokeet menivät läpi, mutta sinulta puuttuu vielä kurssipisteitä: Ota yhteyttä niin sovitaan lisätehtävistä
 - (9.9.2015) Lähetetty tietoa konekoeesta, olethan yhteydessä jos et ole saanut konekoetta koskevaa viestiä.
 - **HUOM!** Muista valita NetBeansissa TMC:n asetuksista (TMC -> Settings) kurssiksi *kesa2015-ohja*.
 - Pariohjelmointitehtävät alkavat jo ensimmäisellä viikolla
